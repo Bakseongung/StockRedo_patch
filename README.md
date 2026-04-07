@@ -1,5 +1,7 @@
 # stock_sim_patch
-stock_sim/v/0.3.0 : https://stockredo.duckdns.org <br>
+stock_sim/v/0.3.0 : 
+https://stockredo.duckdns.org <br> 
+http://stockredo.duckdns.org <br>
 
 ### 현재 반영중인 내용(for v4)
 #### O
