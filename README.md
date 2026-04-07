@@ -8,6 +8,8 @@ stock_sim/v/0.3.0 : https://stockredo.duckdns.org <br>
 3. stockredo.duckdns.org : nginx무한로딩문제 수정
 
 #### X
-로그인 (구글/카카오), 뉴스 (강세/약세), AI 챗봇, 
+로그인 (구글/카카오) O,
+뉴스 (강세/약세) php8.3-xml,
+AI 챗봇, 
 트렌드(어떤 종목이 많이 거래되는지, 급등/급락 종목 등),
 그리기 도구(추세선, 지지/저항선 등)
